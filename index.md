@@ -8,27 +8,33 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 ### Research Interests
 
 
+
+
 ### Publications
 
-I 
+<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.
+
+Bo Fang*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.
+
+ACM International Conference on Multimedia (ACM MM), 2022.
+
+   
+<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+Exploring Relations in Untrimmed Videos for Self-Supervised Learning.
+
+Dezhao Luo*, Bo Fang*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.
+
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.
+
+
+<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+Video 3D Sampling for Self-Supervised Representation Learning.
+
+Wei Li, Dezhao Luo, Bo Fang, Yu Zhou, Weiping Wang.
+
+International Conference on Artificial Neural Networks (ICANN), 2022.
 
 
 ### Industry Experience
 
-#### Baidu Vis
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BoFang13/BoFang13.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
