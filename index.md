@@ -1,6 +1,6 @@
 ## Bo Fang(方波)
 
-I am studying for a master's degree at Institute of Information Engineering (IIE), Chinese Academy of Sciences (UCAS), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). Prior to that, I recieved my B.E. degree from XiaMen 
+I am studying for a master's degree at [Institute of Information Engineering (IIE), Chinese Academy of Sciences (UCAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). Prior to that, I recieved my B.E. degree from [Xiamen University (XMU)](https://www.xmu.edu.cn/)
 
 ### Publications
 
