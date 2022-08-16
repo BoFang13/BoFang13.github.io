@@ -1,15 +1,10 @@
 ## Bo Fang(方波)
 
-You can use the [editor on GitHub](https://github.com/BoFang13/BoFang13.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am studying for a master's degree at Institute of Information Engineering (IIE), Chinese Academy of Sciences (UCAS), 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Bo Fang
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I 
 
 # Header 1
 ## Header 2
