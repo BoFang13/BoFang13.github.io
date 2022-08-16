@@ -15,7 +15,7 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 <img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
 MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.
 
-Bo Fang\*, Wenhao Wu\*, Chang Liu\*, Yu Zhou, Dongliang He, Weiping Wang.
+**Bo Fang**\*, Wenhao Wu\*, Chang Liu\*, Yu Zhou, Dongliang He, Weiping Wang.
 
 ACM International Conference on Multimedia (ACM MM), 2022.
 
@@ -23,7 +23,7 @@ ACM International Conference on Multimedia (ACM MM), 2022.
 <img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
 Exploring Relations in Untrimmed Videos for Self-Supervised Learning.
 
-Dezhao Luo\*, Bo Fang\*, Yu Zhou\*, Yucan Zhou, Dayan Wu, Weiping Wang.
+Dezhao Luo\*, **Bo Fang**\*, Yu Zhou\*, Yucan Zhou, Dayan Wu, Weiping Wang.
 
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.
 
@@ -31,7 +31,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM
 <img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
 Video 3D Sampling for Self-Supervised Representation Learning.
 
-Wei Li, Dezhao Luo, Bo Fang, Yu Zhou, Weiping Wang.
+Wei Li, Dezhao Luo, **Bo Fang**, Yu Zhou, Weiping Wang.
 
 International Conference on Artificial Neural Networks (ICANN), 2022.
 
