@@ -19,7 +19,7 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=120/> 
     <div>
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
-       <div><b style="font-weight:bold;>Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
+       <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
      </div>
 </div>
@@ -30,7 +30,7 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
     <div>
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
-       <div>Dezhao Luo*, <b style="font-weight:bold;>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
+       <div>Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
        <div>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</div>
     </div>
 </div>
