@@ -18,28 +18,28 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=120/> 
     <div>
        <p>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</p>
-       <p>**Bo Fang**\*, Wenhao Wu\*, Chang Liu\*, Yu Zhou, Dongliang He, Weiping Wang.</p>
+       <p><b>Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</p>
        <p>ACM International Conference on Multimedia (ACM MM), 2022.</p>
      </div>
 </center>
 ---
-   
-<img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/>
-Exploring Relations in Untrimmed Videos for Self-Supervised Learning.
-
-Dezhao Luo\*, **Bo Fang**\*, Yu Zhou\*, Yucan Zhou, Dayan Wu, Weiping Wang.
-
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.
-
+<center class="half">
+    <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
+    <div>
+       <p>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</p>
+       <p>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</p>
+       <p>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</p>
+     </div>
+</center>
 ---
-
-<img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
-Video 3D Sampling for Self-Supervised Representation Learning.
-
-Wei Li, Dezhao Luo, **Bo Fang**, Xiaoni Li, Yu Zhou, Weiping Wang.
-
-International Conference on Artificial Neural Networks (ICANN), 2022.
-
+<center class="half">
+    <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
+    <div>
+       <p>Video 3D Sampling for Self-Supervised Representation Learning.</p>
+       <p>Wei Li, Dezhao Luo, <b>Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</p>
+       <p>International Conference on Artificial Neural Networks (ICANN), 2022.</p>
+     </div>
+</center>
 ---
 
 ### Industry Experience
