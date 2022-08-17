@@ -57,7 +57,7 @@ My research is in the area of video-related vision tasks and video content under
         <div>Research Intern</div>
         <div>Sep.2021 - Now</div>
         <div>Hosted by <a href='https://scholar.google.com/citations?hl=en&user=1wzEtxcAAAAJ'>Dr. Errui Ding</a></div>
-        <div>Mentored by <a href='https://whwu95.github.io/'>Dr. Wenhao Wu</a></div>, <a ref='https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ'>Dr. Dongliang He</a>
+        <div>Mentored by <a href='https://whwu95.github.io/'>Dr. Wenhao Wu</a>, <a ref='https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ'>Dr. Dongliang He</a></div>
     </div>    
 </div>
 
