@@ -23,7 +23,7 @@ ACM International Conference on Multimedia (ACM MM), 2022.
 
 ---
    
-<img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=100/> 
+<img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=100/>
 Exploring Relations in Untrimmed Videos for Self-Supervised Learning.
 
 Dezhao Luo\*, **Bo Fang**\*, Yu Zhou\*, Yucan Zhou, Dayan Wu, Weiping Wang.
@@ -32,10 +32,10 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM
 
 ---
 
-<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+<img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=100/>
 Video 3D Sampling for Self-Supervised Representation Learning.
 
-Wei Li, Dezhao Luo, **Bo Fang**, Yu Zhou, Weiping Wang.
+Wei Li, Dezhao Luo, **Bo Fang**, Xiaoni Li, Yu Zhou, Weiping Wang.
 
 International Conference on Artificial Neural Networks (ICANN), 2022.
 
