@@ -23,8 +23,8 @@ My research is in the area of video-related vision tasks and video content under
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
      </div>
 </div>
-
-<p> </p>
+    
+<HR>
     
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
@@ -46,7 +46,7 @@ My research is in the area of video-related vision tasks and video content under
     </div>    
 </div>
 
-<HR>
+<p> </p>
 
 ### Industry Experience
 
@@ -62,4 +62,5 @@ My research is in the area of video-related vision tasks and video content under
 </div>
 
     
-### Collaborators & Advisers
+### Close Collaborators & Advisers
+[Wenhao Wu](https://whwu95.github.io/) (Baidu VIS, PhD at The University of Sydney), Chang Liu (PostDoc at Tsinghua University), [Dezhao Luo](https://luodezhao.github.io/) (PhD at QMUL), [Dongliang He](https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ) (Baidu)
