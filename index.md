@@ -18,8 +18,8 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=120/> 
     <div>
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
-       <p><b>Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</p>
-       <p>ACM International Conference on Multimedia (ACM MM), 2022.</p>
+       <div><b>Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
+       <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
      </div>
 </div>
 
@@ -29,8 +29,8 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
     <div>
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
-       <p>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</p>
-       <p>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</p>
+       <div>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
+       <div>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</div>
      </div>
 </div>
 
@@ -40,8 +40,8 @@ My research is in the area of video-related vision tasks and video content under
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
     <div>
        <h5>Video 3D Sampling for Self-Supervised Representation Learning.</h5>
-       <p>Wei Li, Dezhao Luo, <b>Bo Fang</br>, Xiaoni Li, Yu Zhou, Weiping Wang.</p>
-       <p>International Conference on Artificial Neural Networks (ICANN), 2022.</p>
+       <div>Wei Li, Dezhao Luo, <b>Bo Fang</br>, Xiaoni Li, Yu Zhou, Weiping Wang.</div>
+       <div>International Conference on Artificial Neural Networks (ICANN), 2022.</div>
      </div>
 </div>
 
@@ -54,7 +54,7 @@ My research is in the area of video-related vision tasks and video content under
         <h5>Baidu VIS</h5>
         <div>Research Intern</div>
         <div>Sep.2021 - Now</div>
-        <div>Host: Dr. Dongliang He</div>
-        <div>Mentor: Dr. Wenhao Wu</div>
+        <div>Hosted by <div ref='https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ'>Dr. Dongliang He</div></div>
+        <div>Mentored by Dr. Wenhao Wu</div>
     </div>    
 </div>
