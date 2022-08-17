@@ -63,4 +63,4 @@ My research is in the area of video-related vision tasks and video content under
 
     
 ### Close Collaborators & Advisers
-[Wenhao Wu](https://whwu95.github.io/) (Baidu VIS, PhD at The University of Sydney), Chang Liu (PostDoc at Tsinghua University), [Dezhao Luo](https://luodezhao.github.io/) (PhD at QMUL), [Dongliang He](https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ) (Baidu)
+[Wenhao Wu](https://whwu95.github.io/) (Baidu VIS, PhD at The University of Sydney), Chang Liu (PostDoc at Tsinghua University), [Dezhao Luo](https://luodezhao.github.io/) (PhD at Queen Mary University of London), [Dongliang He](https://scholar.google.com/citations?hl=zh-CN&user=ui6DYGoAAAAJ) (Baidu)
