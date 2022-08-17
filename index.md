@@ -13,7 +13,7 @@ My research is in the area of video-related vision tasks and video content under
 
 
 ### Publications
----
+<HR>
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=120/> 
     <div>
@@ -23,8 +23,8 @@ My research is in the area of video-related vision tasks and video content under
      </div>
 </div>
 
----
-
+<HR>
+    
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
     <div>
@@ -34,7 +34,7 @@ My research is in the area of video-related vision tasks and video content under
      </div>
 </div>
 
----
+<HR>
 
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
@@ -45,7 +45,7 @@ My research is in the area of video-related vision tasks and video content under
      </div>
 </div>
 
----
+<HR>
 
 ### Industry Experience
 <div>
