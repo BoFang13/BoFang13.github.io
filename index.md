@@ -13,22 +13,24 @@ My research is in the area of video-related vision tasks and video content under
 
 
 ### Publications
-
-<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+---
+<img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=100/> 
 MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.
 
 **Bo Fang**\*, Wenhao Wu\*, Chang Liu\*, Yu Zhou, Dongliang He, Weiping Wang.
 
 ACM International Conference on Multimedia (ACM MM), 2022.
 
+---
    
-<img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
+<img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=100/> 
 Exploring Relations in Untrimmed Videos for Self-Supervised Learning.
 
 Dezhao Luo\*, **Bo Fang**\*, Yu Zhou\*, Yucan Zhou, Dayan Wu, Weiping Wang.
 
 ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.
 
+---
 
 <img align="left" src="https://img-blog.csdnimg.cn/6ee7cacc267b4ec8b570b2ab9c0a0ce1.png" width=100 height=100/> 
 Video 3D Sampling for Self-Supervised Representation Learning.
@@ -37,6 +39,7 @@ Wei Li, Dezhao Luo, **Bo Fang**, Yu Zhou, Weiping Wang.
 
 International Conference on Artificial Neural Networks (ICANN), 2022.
 
+---
 
 ### Industry Experience
 
