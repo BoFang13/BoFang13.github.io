@@ -28,9 +28,9 @@ My research is in the area of video-related vision tasks and video content under
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
     <div>
-       <p>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</p>
-       <p>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</p>
-       <p>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</p>
+       <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
+       <h6>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</h6>
+       <h6>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</h6>
      </div>
 </div>
 
