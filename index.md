@@ -32,18 +32,18 @@ My research is in the area of video-related vision tasks and video content under
        <p>Dezhao Luo*, <b>Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</p>
        <p>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</p>
      </div>
-</center>
+</div>
 
 ---
 
-<center class="half">
+<div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
     <div>
        <p>Video 3D Sampling for Self-Supervised Representation Learning.</p>
        <p>Wei Li, Dezhao Luo, <b>Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</p>
        <p>International Conference on Artificial Neural Networks (ICANN), 2022.</p>
      </div>
-</center>
+</div>
 
 ---
 
