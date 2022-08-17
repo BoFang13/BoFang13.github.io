@@ -5,8 +5,7 @@ I am studying for a master's degree at [Institute of Information Engineering (II
 <!-- 
 I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.
 -->
-<p><font color="red">this is a test</font></p>
-$\color{red} {I\ will\ graduate\ in\ 2023\ Fall,\ and\ am\ looking\ for\ a\ PhD\ or\ RA\ position,\ working\ on\ computer\ vision\ research\ and\ applications.} $
+<p><font color="red">I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.</font></p>
 
 ### Research Interests
 
