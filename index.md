@@ -24,7 +24,7 @@ My research is in the area of video-related vision tasks and video content under
      </div>
 </div>
 
-<HR>
+<p> </p>
     
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
