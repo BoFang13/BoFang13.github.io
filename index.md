@@ -21,6 +21,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
        <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
+       <h6>Introduced dense contrastive learning (pixel-level) to video SSL.</h6>
      </div>
 </div>
     
