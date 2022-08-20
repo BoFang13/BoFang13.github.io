@@ -48,7 +48,7 @@ My research is in the area of video-related vision tasks and video content under
 
 <HR>
 
-### Industry Experience
+## Industry Experience
 
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185050146-64368c0f-910f-4e84-81e4-9cad323ec3f8.png" width=100 height=100/>
