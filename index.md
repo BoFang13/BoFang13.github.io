@@ -33,7 +33,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
        <div>Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
        <div>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</div>
-       <!--><div style="font-size=20px;font-style:italic;color='blue'">Designed relation-distinguished pretext based on shots detected from untrimmed videos.</div><-->
+       
     </div>
 </div>
 
