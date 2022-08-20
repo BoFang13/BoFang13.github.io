@@ -8,7 +8,7 @@ I will graduate in 2023 Fall, and am looking for a PhD or RA position, working o
 -->
 <p><font color="red">I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.</font></p>
 
-[email](fangbo@iie.ac.cn) / 
+<a href="mailto:fangbo@iie.ac.cn">Email</a>
 
 ### Research Interests
 
