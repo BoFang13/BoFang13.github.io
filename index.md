@@ -1,4 +1,5 @@
-## Bo Fang (方波)  
+## Bo Fang (方波)  ![图片](https://user-images.githubusercontent.com/42595629/185747664-7ad8a888-c39c-4ae6-951b-f1f7dc11eed4.png)
+
 
 I am studying for a master's degree at [Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS)](https://www.iie.ac.cn/), supervised by [Prof. Yu Zhou](https://people.ucas.ac.cn/~yuzhou). Prior to that, I recieved my B.E. degree in software engineering from [Xiamen University (XMU)](https://www.xmu.edu.cn/). I am interested in *video understanding*, typically in *video self-supervised representation learning* and *video-text cross-modal pretraining & retrieving*.
 
@@ -7,7 +8,6 @@ I will graduate in 2023 Fall, and am looking for a PhD or RA position, working o
 -->
 <p><font color="red">I will graduate in 2023 Fall, and am looking for a PhD or RA position, working on computer vision research and applications.</font></p>
 
-#### Email: fangbo@iie.ac.cn
 
 ### Research Interests
 
