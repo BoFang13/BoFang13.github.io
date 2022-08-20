@@ -45,12 +45,13 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Video 3D Sampling for Self-Supervised Representation Learning.</h5>
        <div>Wei Li*, Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</div>
        <div>International Conference on Artificial Neural Networks (ICANN), 2022.</div>
+       <div font-size=20px;font-style:italic>Designed video pretexts based on 3D sampling clips.</div>
     </div>    
 </div>
 
 <HR>
 
-## Industry Experience
+### Industry Experience
 
 <div>
     <img align="left" src="https://user-images.githubusercontent.com/42595629/185050146-64368c0f-910f-4e84-81e4-9cad323ec3f8.png" width=100 height=100/>
