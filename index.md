@@ -21,7 +21,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
        <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
-       <div font-size=20px font-style:italic>Introduced dense contrastive learning to video SSL.</div>
+       <div font-size=60px;font-style:italic>Introduced dense contrastive learning to video SSL.</div>
      </div>
 </div>
     
@@ -33,6 +33,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
        <div>Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
        <div>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</div>
+       <div font-size=20px;font-style:italic>Designed relation-distinguished pretext based on shots detected from untrimmed videos.</div>
     </div>
 </div>
 
