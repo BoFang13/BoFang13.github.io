@@ -24,7 +24,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
        <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
-       <div style="font-size=20px;font-style:italic;font-color=red">Introduced dense contrastive learning to video SSL.</div>
+       <div style="font-size=20px;font-style:italic;color:#0000ff">Introduced dense contrastive learning to video SSL.</div>
      </div>
 </div>
     
@@ -36,7 +36,6 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
        <div>Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
        <div>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2022.</div>
-       
     </div>
 </div>
 
@@ -48,7 +47,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Video 3D Sampling for Self-Supervised Representation Learning.</h5>
        <div>Wei Li*, Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</div>
        <div>International Conference on Artificial Neural Networks (ICANN), 2022.</div>
-       <div style="font-size=20px;font-style:italic;font-color=#0000ff">Designed video pretexts based on 3D sampling clips.</div>
+       <div style="font-size=20px;font-style:italic;color:blue">Designed video pretexts based on 3D sampling clips.</div>
     </div>    
 </div>
 
