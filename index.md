@@ -24,7 +24,7 @@ My research is in the area of video-related vision tasks and video content under
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
        <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
        <div>ACM International Conference on Multimedia (ACM MM), 2022.</div>
-       <div style="font-size=20px;font-style:italic;color:#0000ff">Oral presentation, 5.0% acceptance.</div>
+       <div style="font-size=20px;font-style:italic;color:red">Oral presentation, 5.0% acceptance.</div>
      </div>
 </div>
     
@@ -47,7 +47,6 @@ My research is in the area of video-related vision tasks and video content under
        <h5>Video 3D Sampling for Self-Supervised Representation Learning.</h5>
        <div>Wei Li*, Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</div>
        <div>International Conference on Artificial Neural Networks (ICANN), 2022.</div>
-       <div style="font-size=20px;font-style:italic;color:blue">Designed video pretexts based on 3D sampling clips.</div>
     </div>    
 </div>
 
