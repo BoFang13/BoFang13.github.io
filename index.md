@@ -19,7 +19,7 @@ My research is in the area of video-related vision tasks and video content under
 <HR>
     
 <div>
-    <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=120/> 
+    <img align="left" src="https://user-images.githubusercontent.com/42595629/185023927-83c99763-4955-42d7-90c5-4642225dd2ee.png" width=200 height=140/> 
     <div>
        <h5>MaMiCo: Macro-to-Micro Semantic Correspondence for Self-supervised Video Representation Learning.</h5>
        <div><b style="font-weight:bold;">Bo Fang</b>*, Wenhao Wu*, Chang Liu*, Yu Zhou, Dongliang He, Weiping Wang.</div>
@@ -31,7 +31,7 @@ My research is in the area of video-related vision tasks and video content under
 <HR>
     
 <div>
-    <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=120/> 
+    <img align="left" src="https://user-images.githubusercontent.com/42595629/185025380-a7edc098-ed5c-416a-92e7-10995a824ad8.png" width=200 height=140/> 
     <div>
        <h5>Exploring Relations in Untrimmed Videos for Self-Supervised Learning.</h5>
        <div>Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>*, Yu Zhou*, Yucan Zhou, Dayan Wu, Weiping Wang.</div>
@@ -42,7 +42,7 @@ My research is in the area of video-related vision tasks and video content under
 <HR>
 
 <div>
-    <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=120/>
+    <img align="left" src="https://user-images.githubusercontent.com/42595629/185026167-1302917d-a4d5-4fec-882d-e2b5d1061c36.png" width=200 height=140/>
     <div>
        <h5>Video 3D Sampling for Self-Supervised Representation Learning.</h5>
        <div>Wei Li*, Dezhao Luo*, <b style="font-weight:bold;">Bo Fang</b>, Xiaoni Li, Yu Zhou, Weiping Wang.</div>
